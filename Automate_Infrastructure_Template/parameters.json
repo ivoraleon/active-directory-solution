@@ -1,0 +1,117 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_Client1_name": {
+            "value": null
+        },
+        "storageAccounts_irsdiag_name": {
+            "value": null
+        },
+        "virtualMachines_PrimaryDC_name": {
+            "value": null
+        },
+        "virtualNetworks_sirs_Vney_name": {
+            "value": null
+        },
+        "virtualMachines_ReadOnlyDC_name": {
+            "value": null
+        },
+        "virtualMachines_SecondaryDC_name": {
+            "value": null
+        },
+        "networkInterfaces_client1835_name": {
+            "value": null
+        },
+        "publicIPAddresses_Client1_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_primarydc503_name": {
+            "value": null
+        },
+        "publicIPAddresses_PrimaryDC_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_clientuser324_name": {
+            "value": null
+        },
+        "networkInterfaces_readonlydc368_name": {
+            "value": null
+        },
+        "publicIPAddresses_ClientUser_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_ReadOnlyDC_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_clientuser1253_name": {
+            "value": null
+        },
+        "networkInterfaces_secondarydc233_name": {
+            "value": null
+        },
+        "publicIPAddresses_ClientUser1_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_SecondaryDC_ip_name": {
+            "value": null
+        },
+        "networkSecurityGroups_BackEnd_NSG_name": {
+            "value": null
+        },
+        "networkSecurityGroups_Client1_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_FrontEnd_NSG_name": {
+            "value": null
+        },
+        "networkSecurityGroups_PrimaryDC_nsg_name": {
+            "value": null
+        },
+        "subnets_BackEndSubnet_name": {
+            "value": null
+        },
+        "subnets_FrontEndSubnet_name": {
+            "value": null
+        },
+        "securityRules_RDP_name": {
+            "value": null
+        },
+        "securityRules_SSH_name": {
+            "value": null
+        },
+        "securityRules_HTTP_name": {
+            "value": null
+        },
+        "securityRules_RDP_name_1": {
+            "value": null
+        },
+        "securityRules_HTTPS_name": {
+            "value": null
+        },
+        "securityRules_RDP_name_2": {
+            "value": null
+        },
+        "disks_ClientUser_OsDisk_1_9890e33a657649f6a0536cfc873dfea7_name": {
+            "value": null
+        },
+        "disks_ClientUser1_OsDisk_1_3183b5d8405e4bb7b58ef24ca69d51cd_name": {
+            "value": null
+        },
+        "securityRules_Default_RDP_name": {
+            "value": null
+        },
+        "virtualMachines_Client1_id": {
+            "value": null
+        },
+        "virtualMachines_PrimaryDC_id": {
+            "value": null
+        },
+        "virtualMachines_ReadOnlyDC_id": {
+            "value": null
+        },
+        "virtualMachines_SecondaryDC_id": {
+            "value": null
+        }
+    }
+}
